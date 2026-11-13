@@ -1,6 +1,4 @@
-sentence-transformers
-uvicorn 
+streamlit>=1.37
+langchain-core
+langchain-community
 ctransformers
-langchain
-python-box
-streamlit
